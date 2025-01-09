@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
+
+###
+>- ng new pwa-angular --standalone
+>- ng add @angular/pwa  
+>- npm install -g @angular/cli
+>- ng update @angular/cli @angular/core
+>- ng add @angular/service-worker
+>- # npm install @angular/service-worker@18.0.1
+
+>- ng build --configuration production
+>- npm install -g http-server
+>- http-server ./dist/pwa-angular --port 8080
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
