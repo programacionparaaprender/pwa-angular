@@ -15,8 +15,40 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 >- npm install -g http-server
 >- http-server ./dist/pwa-angular --port 8080
 
+## curso
+>- https://www.udemy.com/course/pwa-angular/learn/lecture/18838576?start=255#overview
 
+## Sección 1: Introducao
 
+### 1. Introducao
+
+## Sección 2: PWA e Service Workers
+
+### 2. Setup do Projeto
+
+### 3. Configuracoes Iniciais
+
+### 4. Consumindo API Offline
+
+## Sección 3: COnstrucao da Aplicacao
+
+### 5. Criando Servidor Node.js
+
+### 6. Implementando Cadastro
+
+### 7. Implementando Listagem
+
+## Sección 4: Cadastro Offline com IndexedDB
+
+### 8. Gerenciando Status de Conexao
+
+### 9. Utilizando IndexedDB
+
+### 10. Classes Abstratas com TypeScript
+
+## Sección 5: Push Notifications
+
+### 11. Instalando Web-Push no Node
 
 ## Development server
 
